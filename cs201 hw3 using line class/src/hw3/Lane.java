@@ -66,13 +66,4 @@ public class Lane {
 		return str;
 	}
 	
-	/*public static int timeSum(ArrayList<Customer> c) {
-			int sum = 0;
-			for(int i = 0; i <c.size(); i++) {
-				sum += c.get(i).getTimeCnt();
-			}
-			return sum;
-		}
-		*/
-	
 }
